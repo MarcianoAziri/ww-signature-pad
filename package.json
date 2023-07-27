@@ -1,0 +1,17 @@
+{
+  "name": "calendar",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "weweb build",
+    "serve": "weweb serve"
+  },
+  "devDependencies": {
+    "@weweb/cli": "latest"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "signature_pad": "^4.1.6",
+    "v-calendar": "^3.0.3",
+    "vue-functional-calendar": "^2.9.98"
+  }
+}
